@@ -27,3 +27,8 @@ Bu proje, manuel log inceleme süreçlerini otomitize ederek aşağıdaki metrik
 2. `logAlert.py` dosyasındaki ilgili alanlara kendi e-posta ve uygulama şifrenizi girin.
 3. Scripti çalıştırın: `python3 logAlert.py`
 4. Test logları üretmek için terminal üzerinden `echo` veya `printf` komutlarını kullanabilirsiniz.
+
+<img width="1464" height="506" alt="image" src="https://github.com/user-attachments/assets/2b4b16f9-d443-43bd-8905-06683d18af7f" />
+<img width="1466" height="336" alt="image" src="https://github.com/user-attachments/assets/46d37418-63b2-4a5e-8aa5-03943e1e8be8" />
+
+
